@@ -1,5 +1,5 @@
 <Config>
-  <TimeZone></TimeZone>
+  <TimeZone>AUS Eastern Standard Time</TimeZone>
   <RemoveApps>
     <App>Microsoft.BingNews</App>
     <App>Microsoft.BingWeather</App>
@@ -44,14 +44,14 @@
   <Language></Language>
   <!-- If you want to set a language, customize and reference this file: <Language>Language.xml</Language> -->
   <DefaultApps>Associations.xml</DefaultApps>
-  <RegisteredOwner>Autopilot User</RegisteredOwner>
-  <RegisteredOrganization>Contoso</RegisteredOrganization>
+  <RegisteredOwner>Mobius Medical</RegisteredOwner>
+  <RegisteredOrganization>Mobius Medical</RegisteredOrganization>
   <OEMInfo>
-    <Manufacturer>Contoso</Manufacturer>
-    <Model>PC</Model>
+    <Manufacturer></Manufacturer>
+    <Model></Model>
     <Logo>Contoso.bmp</Logo>
-    <SupportPhone>+1 800-555-1212</SupportPhone>
-    <SupportHours>8am-5pm PST</SupportHours>
-    <SupportURL>http://www.contoso.com</SupportURL>
+    <SupportPhone></SupportPhone>
+    <SupportHours></SupportHours>
+    <SupportURL></SupportURL>
   </OEMInfo>
 </Config>
